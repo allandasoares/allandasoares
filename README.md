@@ -1,7 +1,7 @@
 ### Olá, eu sou a Allanda Soares!
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estou estudando React
+- 🔭 Atualmente trabalho com front-end - ReactJs
+- 🌱 Estou estudando Clean Architecture 
 
 <div align="center">
   <a href="https://github.com/allandasoares">
